@@ -1,1 +1,1 @@
-Jenkins sonarqube docker cicd pipeline 
+Jenkins sonarqube docker cicd pipeline.
